@@ -1,0 +1,10 @@
+# FastAPI Backend & ASGI Web Server
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+pydantic>=2.0.0
+
+# Headless Web Automation & Data Ingestion
+playwright>=1.42.0
+
+# Testing Framework
+pytest>=8.0.0
